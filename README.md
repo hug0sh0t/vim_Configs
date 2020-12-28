@@ -39,8 +39,8 @@ my RC files are not in a Directory, so change your plugin manager accordingly
 
 Specifically Compatible with JavaScript, Python ,
 C;C++;C#, React , Java, Ruby,
-and (HTML,CSS(Dynamically showing BackGround Colors))  Development
+and (HTML,CSS(Dynamically showing BackGround Colors)) 
 
-## All debugging is done in the Terminal
+ All debugging is done in the Terminal
 ### these configurations are for enhancing scripting speed in the development environment
  
