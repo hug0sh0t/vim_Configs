@@ -7,6 +7,7 @@ packloadall
 behave mswin
 source $VIMRUNTIME/mswin.vim
 
+" Movement Keys for saving, clustering, changing , exiting, exit&&save, etc . 
 let mapleader=" "
 nmap <leader>n :source $HOME\.vimrc<CR>
 nmap <leader>b :source $HOME\.gvimrc<CR>
@@ -21,6 +22,7 @@ imap <C-d> <Esc>$a
 noremap <C-Up> 7k
 noremap <C-Down> 7j
 
+" graphics
 set guifont=Consolas:h13:b:cANSI
 set visualbell
 set guioptions -=m 
@@ -54,7 +56,7 @@ set signcolumn=number
 set mousehide 
 set cursorline
 
-
+"plugins for javascript, python, C++;#;C , React, HTML,cSS , TagBar
 let g:syntastic_python_checkers = ['pylint']
 call plug#begin('~/vim82/plugo')
 Plug 'morhetz/gruvbox'
