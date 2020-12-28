@@ -2,7 +2,7 @@
 <img src='https://github.com/hug0sh0t/VIM-Configurations/blob/main/vim-2.ico' style='width:90px;height:90px'/> 
 
 
-## My Vim Configurations for Web Development
+## My Vim Configurations for API / Web Development
 
 
 Just a reminder , inside your vimrc, make sure to go through the cycle as listed below... 
