@@ -3,6 +3,8 @@
 
 
 Just a reminder , inside your vimrc, make sure to go through the cycle as listed below... 
+
+
 1: $:PlugUpdate
 2: $:w ... default saving method  ( aka finger cramps ) 
 3: $:Source%  ... default source method ( aka finger cramps )
