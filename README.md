@@ -6,12 +6,23 @@ Just a reminder , inside your vimrc, make sure to go through the cycle as listed
 
 
 1: $:PlugUpdate
+
+
 2: $:w ... default saving method  ( aka finger cramps ) 
+
+
 3: $:Source%  ... default source method ( aka finger cramps )
+
+
+
 
 after color change ... the shortcuts below are available 
 4: Space + "w" this saves the file
+
+
 5: Space + "n" Source the vimrc for all the funcational changes
+
+
 6: Space + "b" Source the gvimrc for all the graphic changes 
 
 
