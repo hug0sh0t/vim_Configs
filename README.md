@@ -41,6 +41,6 @@ Specifically Compatible with JavaScript, Python ,
 C;C++;C#, React , Java, Ruby,
 and (HTML,CSS(CSS Colors)) 
 
- All debugging is done in the Terminal
-### these configurations are for enhancing scripting speed in the development environment
+
+
  
