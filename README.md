@@ -38,7 +38,9 @@ Just a reminder , inside your vimrc, make sure to go through the cycle as listed
 my RC files are not in a Directory, so change your plugin manager accordingly 
 
 Specifically Compatible with JavaScript, Python ,
-C;C++;C#, React , Java, Ruby,
+C;C++;C#, Java, Ruby
+| React, GraphQl, Typescript, Flask, Django
+| includes Tmux navigation
 and (HTML,CSS(CSS Colors)) 
 
 
