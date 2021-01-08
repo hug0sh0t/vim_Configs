@@ -1,7 +1,8 @@
 # SPEED <img src='https://github.com/hug0sh0t/VIM-Configurations/blob/main/vim-2.ico' style='width:90px;height:90px'/> 
 
 
-##  It is much safer and efficient to develop complex code in VScode,  IMO Vim is only essential for quick changes fixes 
+## I primary use VScode, a much safe enviroment for complex development  
+## ,But Vim is still essential to know when dealing with different OS
 
 ## My Vim Configurations for API / Web Development
 
