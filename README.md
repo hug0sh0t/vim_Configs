@@ -1,6 +1,8 @@
 # SPEED <img src='https://github.com/hug0sh0t/VIM-Configurations/blob/main/vim-2.ico' style='width:90px;height:90px'/> 
 
 
+##  It is much safer and efficient to develop complex code in VScode,  IMO Vim is only essential for quick changes fixes 
+
 ## My Vim Configurations for API / Web Development
 
 
