@@ -1,4 +1,4 @@
-# SPEED <img src='https://github.com/hug0sh0t/VIM-Configurations/blob/main/vim-2.ico' style='width:90px;height:90px'/> 
+# SPEED <img src='https://github.com/hug0sh0t/VIM-Configurations/blob/main/vim-2.ico' width="200px" height="200px"'/> 
 
 
 ## I primarily use VScode, a much safe enviroment for complex development  
