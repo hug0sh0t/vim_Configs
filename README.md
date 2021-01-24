@@ -1,4 +1,4 @@
-# SPEED <img src='https://github.com/hug0sh0t/VIM-Configurations/blob/main/vim-2.ico' width="200px" height="200px"'/> 
+# SPEED <img src='https://github.com/hug0sh0t/VIM-Configurations/blob/main/vim-2.ico' width="200px" height="200px"/> 
 
 
 ## I primarily use VScode, a much safe enviroment for complex development  
@@ -13,7 +13,7 @@ Just a reminder , inside your vimrc, make sure to go through the cycle as listed
 1: $:PlugUpdate
 
 
-2: $:w ... default saving method  ( aka finger cramps ) 
+2: $:w ... default saving method   
 
 
 3: $:Source%  ... default source method ( aka finger cramps )
