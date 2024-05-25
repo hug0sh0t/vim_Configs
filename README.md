@@ -1,9 +1,5 @@
 # SPEED <img src='https://github.com/hug0sh0t/VIM-Configurations/blob/main/vim-2.ico' width="200px" height="200px"/> 
 
-
-## I primarily use VScode, a safer enviroment for complex development  
-## ,But Vim is still essential to know when dealing with different OS
-
 ## My Vim Configurations for API / Web Development
 
 
@@ -16,7 +12,7 @@ Just a reminder , inside your vimrc, make sure to go through the cycle as listed
 2: $:w ... default saving method   
 
 
-3: $:Source%  ... default source method ( aka finger cramps )
+3: $:Source%  ... default source method
 
 
 
